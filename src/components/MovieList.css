@@ -1,0 +1,27 @@
+.container {
+  background: #fff8dc;
+  color: black;
+}
+
+.container:hover {
+  cursor: pointer;
+}
+
+.row .card-header {
+  background: #fff8dc;
+  color: black;
+}
+
+.background {
+  background: #fff8dc;
+  color: black;
+}
+
+.star {
+  cursor: pointer;
+  transition: color 200ms;
+}
+
+input[type="radio"] {
+  display: none;
+}
